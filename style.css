@@ -1,0 +1,28 @@
+.Porras{
+  height:250px;
+  width:250px;
+}
+.next-page-btn:hover {
+            background-color: #006666;
+        }
+
+        .button-group {
+            margin-top: 20px;
+        }
+
+        .next-page-btn {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #009999;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        .next-page-btn:hover {
+            background-color: #006666;
+        }
+
+.name {
+  text-align: center;
+}
