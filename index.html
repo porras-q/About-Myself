@@ -13,8 +13,7 @@
      <h1 class="name"> My Personal Website </h1>
      </header>
       <main>
-   <img src="https://cdn.discordapp.com/attachments/1390400288514637836/1487092169742225458/Messenger_creation_05300772-0CA5-471D-A18E-62997C0968A2.jpg?ex=69cc7f42&is=69cb2dc2&hm=a25856355609a23a52cc1fc8ae6bf0c7029abdea456705542063ad62b76fbf93" class="Porras" alt="Porras">
-   <img src="https://cdn.discordapp.com/attachments/1390400288514637836/1488502975944200232/1774957056917.jpg?ex=69cd03ec&is=69cbb26c&hm=27fc2d6ff68f658178d15d0eb484e0d412dc89f9fa962fadb8e0b7220590a74c" class="Porras" alt="Porras">
+   ![image alt](https://github.com/porras-q/About-Myself/blob/6cf397c8b0e5680f96200bb9911367dc8becf257/1774957056917.jpg)
    <h3> Welcome to my personal website! Here you will find information about me, my interests, and my hobbies. </h3>
    <h1> About Me </h1>
    <h3> My name is Quineisha Xantara C. Porras, and I am a Grade 11 student at Thessalonians. I have a passion for learning and exploring new ideas in art, like painting, digital art design, different art styles, and more. I like to experiment with different mediums and techniques to create unique pieces of art.  </h3> <footer>
