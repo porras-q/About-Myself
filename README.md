@@ -16,6 +16,7 @@
   
 ![Alt Text](https://github.com/porras-q/About-Myself/raw/87f876c1214e505dd6d84698ee4c7f192def5716/Screenshot%202026-04-10%20195852.png)
 ![Alt Text](https://github.com/porras-q/About-Myself/raw/f398ac7fb1e0cb346f5d552b006efcd54a89e1b1/Screenshot%202026-04-10%20212231.png)
+![Alt Text](https://github.com/porras-q/About-Myself/raw/0093a400bc82d5fb4d564fc8ea929deaac26117c/Screenshot%202026-04-10%20212839.png)
    
           <h3> Welcome to my personal website! Here you will find information about me, my interests, and my hobbies. </h3>
    <h1> About Me </h1>
