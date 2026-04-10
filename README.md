@@ -13,12 +13,10 @@
      <h1 class="name"> My Personal Website </h1>
      </header>
       <main>
-  
-![Alt Text](https://github.com/porras-q/About-Myself/raw/87f876c1214e505dd6d84698ee4c7f192def5716/Screenshot%202026-04-10%20195852.png)
+![Alt Text](https://github.com/porras-q/About-Myself/raw/5ea43dc0f114a6fd151b0bd129390deff3228b47/Screenshot%202026-04-10%20213349.png)
 ![Alt Text](https://github.com/porras-q/About-Myself/raw/f398ac7fb1e0cb346f5d552b006efcd54a89e1b1/Screenshot%202026-04-10%20212231.png)
 ![Alt Text](https://github.com/porras-q/About-Myself/raw/0093a400bc82d5fb4d564fc8ea929deaac26117c/Screenshot%202026-04-10%20212839.png)
-![Alt Text](https://github.com/porras-q/About-Myself/raw/5ea43dc0f114a6fd151b0bd129390deff3228b47/Screenshot%202026-04-10%20213349.png)
-   
+![Alt Text](https://github.com/porras-q/About-Myself/raw/87f876c1214e505dd6d84698ee4c7f192def5716/Screenshot%202026-04-10%20195852.png)
    <h3> Welcome to my personal website! Here you will find information about me, my interests, and my hobbies. </h3>
    <h1> About Me </h1>
    <h3> My name is Quineisha Xantara C. Porras, and I am a Grade 11 student at Thessalonians. I have a passion for learning and exploring new ideas in art, like painting, digital art design, different art styles, and more. I like to experiment with different mediums and techniques to create unique pieces of art.  </h3> <footer>
